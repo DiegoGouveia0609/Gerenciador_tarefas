@@ -55,4 +55,4 @@ Login: { "email": "usuario@example.com", "senha": "********" }
 Tarefas: { "id": 1, "usuario": "usuario@example.com", "titulo": "Tarefa Exemplo", "descricao": "Descrição da tarefa" }
 Apresentação:
 Uma breve apresentação será realizada para demonstrar o processo de login, adição, edição e exclusão de tarefas, mostrando como os dados são sincronizados com o Supabase em tempo real.
-[@vídeo]([https://youtu.be/2BBKGDF4eS0])
+[vídeo]([https://youtu.be/2BBKGDF4eS0])
