@@ -6,10 +6,15 @@ Objetivo:
 Desenvolver uma aplicação mobile que integre um gerenciador de tarefas com um sistema de autenticação e armazenamento em nuvem usando o Supabase, demonstrando a integração de dados e funcionalidades entre os sistemas.
 
 Descrição:
+
 Escolha dos Sistemas:
+
 Supabase: Um backend que oferece autenticação, banco de dados, armazenamento e APIs REST, utilizado para gerenciar as tarefas e autenticação dos usuários.
+
 Aplicação Mobile (Expo/React Native): Desenvolvida para permitir que os usuários façam login e manipulem suas tarefas por meio de uma interface amigável.
+
 Planejamento da Integração:
+
 Objetivo da Integração:
 
 Permitir que os usuários façam login e armazenem suas tarefas no Supabase.
